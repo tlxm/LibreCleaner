@@ -1,7 +1,7 @@
 # Uncomment the next line to define a global platform for your project
 #source 'https://github.com/CocoaPods/Specs.git'
 
-platform :osx, '10.11'
+platform :osx, '10.15'
 
 install! 'cocoapods', :disable_input_output_paths => true
 
